@@ -1,0 +1,9 @@
+[
+  "easy: 20 randomized mazes solved, exit locked, scoring and record passed",
+  "medium: 20 randomized mazes solved, exit locked, scoring and record passed",
+  "hard: 20 randomized mazes solved, exit locked, scoring and record passed",
+  "Pause, timer, hidden tab, restart: passed",
+  "Touch pointer down/up and repeat cancellation: passed",
+  "Record reload: passed",
+  "Blocked storage fallback: passed"
+]
